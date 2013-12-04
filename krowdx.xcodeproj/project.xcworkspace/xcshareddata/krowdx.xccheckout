@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94869163-F8D4-46A8-B9BC-0B2759ED8B1C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>krowdx</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>760A5FCA-38EF-4140-961D-31CA0F56D311</key>
+		<string>https://github.com/JulieCaccavo/krowdx_appstore_2013.11.19.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>krowdx.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>760A5FCA-38EF-4140-961D-31CA0F56D311</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JulieCaccavo/krowdx_appstore_2013.11.19.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>760A5FCA-38EF-4140-961D-31CA0F56D311</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>760A5FCA-38EF-4140-961D-31CA0F56D311</string>
+			<key>IDESourceControlWCCName</key>
+			<string>krowdx_appstore_2013.11</string>
+		</dict>
+	</array>
+</dict>
+</plist>
